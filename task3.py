@@ -10,3 +10,4 @@ if 0 < number <= 100000:
     print(is_prime(number))
 else:
     print("Введите число в диапазоне от 1 до 100000")
+
